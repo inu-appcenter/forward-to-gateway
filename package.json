@@ -1,0 +1,19 @@
+{
+  "name": "forward-to-gateway",
+  "version": "1.0.0",
+  "description": "3829포트로 들어오는 http 요청을 API Gateway로 포워드합니다.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inu-appcenter/forward-to-gateway.git"
+  },
+  "author": "potados99",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inu-appcenter/forward-to-gateway/issues"
+  },
+  "homepage": "https://github.com/inu-appcenter/forward-to-gateway#readme"
+}
